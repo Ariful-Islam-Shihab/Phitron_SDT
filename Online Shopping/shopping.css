@@ -1,0 +1,140 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+}
+.topimagetext{
+    position: absolute;
+    background-color: black;
+    bottom: 10px;
+    right: 10px;
+    color: white;
+    padding: 15px;
+    width: 450px;
+    border-radius: 10px;
+    /* height: 100px; */
+}
+ .cololo{
+    position: relative;
+}
+.colbtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+    
+}
+.colon{
+    color: rgb(233, 5, 5);
+}
+.homecolor{
+    color: rgb(233, 5, 5);
+}
+/* Ensure the navbar and its container use Flexbox */
+.needed{
+    background-color: rgb(233, 5, 5);
+    color: white;
+    width: 95%;
+    padding: 15px;
+}
+.sicon{
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    /* align-items: right;
+    align-content: right; */
+}
+
+.navbar-nav {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    width: 100%; /* Ensure it takes full width of its container */
+    gap: 15px;
+    padding: 20px;
+}
+
+.middles{
+    /* align-self: center;
+    align-items: center;
+    align-content: center; */
+    width: 30%;
+}
+.title{
+    width: 15%;
+}
+.hockk{
+    text-align: center;
+}
+.underclub{
+    text-align: center;
+    width: 100%;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    /* color: white; */
+    align-self: center;
+    align-items: center;
+}
+.card1{
+    color: white;
+    background-image: url(Images/2.png);
+    background-size: cover; /* Optional: to cover the entire card */
+    background-repeat: no-repeat; 
+}
+.card2{
+    color: white;
+    background-image: url(Images/3.png);
+    background-size: cover; /* Optional: to cover the entire card */
+    background-repeat: no-repeat; 
+}
+.card3{
+    color: white;
+    background-image: url(Images/4.png);
+    background-size: cover; /* Optional: to cover the entire card */
+    background-repeat: no-repeat; 
+}
+.prooos{
+    color: black;
+}
+.bbbb{
+    border: 5px;
+    color: black;
+    width: 100%;
+    border-color: black;
+    
+}
+.iconimages{
+    margin-left: 5px;
+    align-self: baseline;
+    width: 20%;
+}
+.iconCards1{
+    background-color: rgb(238, 231, 231);
+    text-align: left;
+}
+.iconCards2{
+    background-color: rgb(230, 121, 121);
+    text-align: left;
+}
+.iconCards3{
+    background-color: rgb(170, 231, 170);
+    text-align: left;
+}
+.i{
+    cursor: pointer;
+}
+.footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    border: 1ch;
+}
